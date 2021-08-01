@@ -32,12 +32,12 @@ class DefaultItem implements Item, Serializable
     /**
      * @var string
      */
-    protected $icon = 'fa fa-angle-double-right';
+    protected $icon = 'chevron-right';
 
     /**
      * @var string
      */
-    protected $toggleIcon = 'fa fa-angle-left';
+    protected $toggleIcon = 'chevron-left';
 
     /**
      * @var string|bool
